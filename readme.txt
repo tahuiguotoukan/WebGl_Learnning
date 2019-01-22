@@ -2,3 +2,4 @@
 git has a mutable index called stage
 git tracks changes
 push something to remote master
+change git remote url to SSH
